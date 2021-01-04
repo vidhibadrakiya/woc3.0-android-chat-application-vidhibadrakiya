@@ -1,9 +1,9 @@
 # woc3.0-android-chat-application-vidhibadrakiya
-##Hello there!!
+## Hello there!!
 
-###here are some tools and technologies that will be used in project.
+### here are some tools and technologies that will be used in project.
 
-##Tools and Technologies
-###Java
-###Android Studio
-###Firebase
+## Tools and Technologies
+### Java
+### Android Studio
+### Firebase
